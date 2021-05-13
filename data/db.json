@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Welcome to new blog",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambl",
+      "likes": "30"
+    },
+    {
+      "id": "2",
+      "title": "How to be a Net Ninja",
+      "body": " quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat face",
+      "likes": "15"
+    },
+    {
+      "id": "3",
+      "title": "New course coming soon",
+      "body": " equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil an",
+      "likes": "10"
+    }
+  ]
+}
